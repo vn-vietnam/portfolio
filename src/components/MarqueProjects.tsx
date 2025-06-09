@@ -14,18 +14,12 @@ const projects = [
 		tech: "Next.js, Tailwind CSS, TypeScript, MDX, Shadcn UI",
 		link: "blog-puce-one-75.vercel.app",
 	},
-	// {
-	//   name: "Task Management App",
-	//   description: "Real-time task management with collaborative features",
-	//   tech: "React, Firebase, Material-UI",
-	//   link: "https://github.com/vn-vietnam",
-	// },
-	// {
-	//   name: "Weather Dashboard",
-	//   description: "Weather forecast application with location tracking",
-	//   tech: "React, OpenWeather API, Chart.js",
-	//   link: "https://github.com/vn-vietnam",
-	// },
+	{
+	  name: "Exam English App",
+	  description: "Platform Test English online ",
+	  tech: "NextJd, PostgreSql, Tailwind CSS, TypeScript, Shadcn UI",
+	  link: "exam-english.io.vn",
+	},
 ];
 
 const ProjectCard = ({
