@@ -4,21 +4,27 @@ import Link from "next/link";
 const projects = [
 	{
 		name: "Portfolio Website",
-		description: "Simple portfolio website",
+		description: "A simple portfolio website",
 		tech: "Next.js, Tailwind CSS, TypeScript, Shadcn UI",
-		link: "porfolio-beta-lake.vercel.app",
+		link: "portfolio-beta-lake.vercel.app",
 	},
 	{
 		name: "Blog",
-		description: "Simple Blog",
+		description: "A simple blog platform",
 		tech: "Next.js, Tailwind CSS, TypeScript, MDX, Shadcn UI",
 		link: "blog-puce-one-75.vercel.app",
 	},
 	{
-	  name: "Exam English App",
-	  description: "Platform Test English online ",
-	  tech: "NextJd, PostgreSql, Tailwind CSS, TypeScript, Shadcn UI",
-	  link: "exam-english.io.vn",
+		name: "Exam English App",
+		description: "An online English testing platform",
+		tech: "Next.js, PostgreSQL, Tailwind CSS, TypeScript, Shadcn UI",
+		link: "exam-english.io.vn",
+	},
+	{
+		name: "QuizzLab",
+		description: "An AI-powered quiz creation and online testing platform for Vietnam",
+		tech: "Next.js, Supabase, Tailwind CSS, TypeScript, Shadcn UI",
+		link: "quizzlab.online",
 	},
 ];
 

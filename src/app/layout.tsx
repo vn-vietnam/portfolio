@@ -9,7 +9,7 @@ const lato = Lato({
 });
 
 export const metadata: Metadata = {
-	title: "Kien Nguyen",
+	title: "Kien Nguyen's Portfolio",
 	description: "Kien Nguyen's Portfolio",
 };
 
