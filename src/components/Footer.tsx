@@ -27,7 +27,7 @@ export function Footer() {
 					</Link>
 				</DockIcon>
 				<DockIcon className="bg-black/10 dark:bg-white/10 hover:bg-green-100 dark:hover:bg-green-900/20 transition-colors">
-					<Link href="https://wa.me/84982311814" target="_blank">
+					<Link href="/" target="_blank">
 						<Icons.whatsapp className="size-full text-green-600 dark:text-green-400" />
 					</Link>
 				</DockIcon>
