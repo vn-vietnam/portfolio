@@ -3,22 +3,16 @@ import Link from "next/link";
 
 const projects = [
 	{
-		name: "Portfolio Website",
-		description: "A simple portfolio website",
-		tech: "Next.js, Tailwind CSS, TypeScript, Shadcn UI",
-		link: "portfolio-beta-lake.vercel.app",
-	},
-	{
 		name: "Blog",
 		description: "A simple blog platform",
 		tech: "Next.js, Tailwind CSS, TypeScript, MDX, Shadcn UI",
 		link: "blog-puce-one-75.vercel.app",
 	},
 	{
-		name: "Exam English App",
+		name: "Toiec Exam",
 		description: "An online English testing platform",
 		tech: "Next.js, PostgreSQL, Tailwind CSS, TypeScript, Shadcn UI",
-		link: "exam-english.io.vn",
+		link: "toeic-exam.xyz",
 	},
 	{
 		name: "QuizzLab",
